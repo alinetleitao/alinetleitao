@@ -1,6 +1,6 @@
 ### Hi there, I'm [Aline Terra!](https://alinetleitao.github.io) 👋
 
-<a link href="https://www.alineterra.com" "target="_blank">
+<a link href="https://www.alineterra.com">
   <img align="left" alt="Aline Terra | CodeSandbox" width="20px" src="https://github.com/alinetleitao/GitAline/blob/main/assets/site.png" />
 </a>
 <a href="mailto:contato@alineterra.com">
