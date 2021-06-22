@@ -1,28 +1,38 @@
-## Aline Terra 
- <div>
-  <a href="https://github.com/alinetleitao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinetleitao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinetleitao&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Terra-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Terra-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Terra-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Terra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Terra-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Terra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Terra-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Terra-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.alineterra.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/alinetleitao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato@alineterra.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alinetleitao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/alinetleitao/alinetleitao/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+### Hi there, I'm [Aline Terra!](https://alinetleitao.github.io) 👋
+
+<a href="https://alineterra.com">
+  <img align="left" alt="Aline Terra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+<a href="https://linkedin.com/alinetleitao">
+  <img align="left" alt="Aline Terra | LinkedIn" width="21px" src="<i class="fab fa-linkedin"></i>" />
+</a>
+<a href="https://discord.gg/VK4k3Br">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
+<br />
+<br />
+
+**Languages and Tools:**  
+
+<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/nodejs/nodejs.png"></code>
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alinetleitao&layout=compact&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alinetleitao&repo=github-readme-stats&theme=material-palenight" />
+</a>    -->
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alinetleitao&repo=anuraghazra.github.io&theme=material-palenight" />
+</a>-->
