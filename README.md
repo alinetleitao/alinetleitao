@@ -4,7 +4,7 @@
   <img align="left" alt="Aline Terra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 <a href="https://linkedin.com/alinetleitao">
-  <img align="left" alt="Aline Terra | LinkedIn" width="21px" src="<i class="fab fa-linkedin"></i>" />
+  <img align="left" alt="Aline Terra | LinkedIn" width="21px" src=/>
 </a>
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
