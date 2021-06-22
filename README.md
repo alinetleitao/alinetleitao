@@ -1,15 +1,14 @@
 ### Hi there, I'm [Aline Terra!](https://alinetleitao.github.io) 👋
 
-<a href="https://alineterra.com">
-  <img align="left" alt="Aline Terra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://www.alineterra.com">
+  <img align="left" alt="Aline Terra | CodeSandbox" width="20px" src="https://github.com/alinetleitao/GitAline/blob/main/assets/site.png" />
 </a>
-<a href="https://linkedin.com/alinetleitao">
-  <img align="left" alt="Aline Terra | LinkedIn" width="21px" src=/>
+<a href="mailto:contato@alineterra.com">
+  <img align="left" alt="Aline Terra | E-mail" width="21px" src="https://github.com/alinetleitao/GitAline/blob/main/assets/email.png" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://www.linkedin.com/in/alinetleitao/">
+  <img align="left" alt="Aline Terra | CodeSandbox" width="20px" src="https://github.com/alinetleitao/GitAline/blob/main/assets/linkedin.png" />
 </a>
-
 <br />
 <br />
 
