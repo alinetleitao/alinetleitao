@@ -20,7 +20,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/nodejs/nodejs.png"></code>
--->
 
 <p href="https://github-readme-stats.vercel.app/api?username=alinetleitao&show_icons=true&theme=synthwave&hide_title=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alinetleitao&show_icons=true&theme=synthwave&hide_title=true" />
@@ -31,3 +30,11 @@
 </p>
 
 <img align="left" alt="Aline Terra | CodeSandbox" width="600px" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+-->
+
+<p align="left">
+  <img src ="https://github-readme-stats.vercel.app/api?username=alinetleitao&count_private=true&show_icons=true&theme=darcula&include_all_commits=true&bg_color=00000000&hide_border=true">
+
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=alinetleitao&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php,html">
+</p>
