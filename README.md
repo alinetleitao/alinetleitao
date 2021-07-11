@@ -30,12 +30,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alinetleitao" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alinetleitao" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alinetleitao" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alinetleitao" height="30" width="40"/> </a>
   
 <a href="https://www.alineterra.com" target="blank"><img align="left" src="https://github.com/alinetleitao/GitAline/blob/main/assets/site.png" alt="alinetleitao" height="30" width="40" /> </a>
-  
-<a href="mailto:contato@alineterra.com" target="blank"><img align="left" src="https://github.com/alinetleitao/GitAline/blob/main/assets/email.png" alt="Aline Terra Leitão" height="30" width="40" /> </a>
 
-<a href="https://instagram.com/alinetleitao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alinetleitao" height="30" width="40" /></a>
+<a href="https://instagram.com/alinetleitao" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alinetleitao" height="30" width="40"/> </a>
+  
+<a href="mailto:contato@alineterra.com" target="blank"><img align="left" src="https://github.com/alinetleitao/GitAline/blob/main/assets/email.png" alt="Aline Terra Leitão" height="30" width="40"/> </a>
 
 </p>
