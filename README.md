@@ -1,4 +1,4 @@
-### Hi there, I'm [Aline Terra!](https://alinetleitao.github.io) 👋
+### Hi there, I'm [Aline Terra!](https://github.com/alinetleitao) 👋
 
 <a link href="https://www.alineterra.com">
   <img align="left" alt="Aline Terra | CodeSandbox" width="20px" src="https://github.com/alinetleitao/GitAline/blob/main/assets/site.png" />
@@ -20,23 +20,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/nodejs/nodejs.png"></code>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alinetleitao&layout=compact&theme=material-palenight" />
-</a>
+<p href="https://github-readme-stats.vercel.app/api?username=alinetleitao&show_icons=true&theme=synthwave&hide_title=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alinetleitao&show_icons=true&theme=synthwave&hide_title=true" />
+</p>
 
-<br />
-<br />
+<p href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alinetleitao&layout=compact&theme=material-palenight" />
+</p>
+
 <img align="left" alt="Aline Terra | CodeSandbox" width="600px" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alinetleitao&repo=github-readme-stats&theme=material-palenight" />
-</a>    -->
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=alinetleitao&repo=anuraghazra.github.io&theme=material-palenight" />
-</a>-->
