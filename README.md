@@ -1,6 +1,6 @@
 
 
-# 👋🏻 Hi there, I'm [Aline Terra](https://github.com/alinetleitao)!
+## 👋🏻 Hi there, I'm [Aline Terra](https://github.com/alinetleitao)!
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/78427117/145701238-f7a384a0-d86d-40fa-a162-b1780e75b7f6.gif" width="500" height="320" />
 
