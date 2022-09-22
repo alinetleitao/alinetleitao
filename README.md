@@ -4,7 +4,7 @@
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/78427117/145701238-f7a384a0-d86d-40fa-a162-b1780e75b7f6.gif" width="500" height="320" />
 
-👩‍💻 Bachelor's degree in Systems Analysis and MBA in Big Data | Data Science and nowadays I'm studing Physics;
+👩‍💻 Bachelor's degree in Systems Analysis and MBA in Big Data | Data Science;
 
 💼 With more than 10 years of experience working in the technology industry, I have a solid background providing data solutions into business results with fast, precise, and impactful implementations; 
 
