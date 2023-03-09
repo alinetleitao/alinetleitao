@@ -11,6 +11,6 @@ Data Engineer
 
 👩‍💻 Bachelor's degree in Systems Analysis and MBA in Big Data | Data Science;
 
-💼 With more than 10 years of experience working in the technology industry, I have a solid background providing data solutions into business results with fast, precise, and impactful implementations; 
+💼 I have more than 10 years of experience working in the technology industry, and recently I started learning more about developing data and software solutions from all sorts of domains, providing data solutions into business results with fast, precise, and impactful implementations; 
 
-👾  Some tech skills: Python, PySpark, SQL, Databricks, Azure, AWS, Kubernetes, IAC;
+👾  Some tech skills: Python, PySpark, SQL, AWS, Databricks, Kubernetes, Datadog, Airflow, IAC (Terraform);
